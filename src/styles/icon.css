@@ -1,4 +1,3 @@
-/* 全局样式文件 */
 @font-face {
   font-family: "toutiao";
   src: url('//at.alicdn.com/t/font_1937362_wvvls3wmzz.eot?t=1594435583188');
@@ -75,16 +74,4 @@
 }
 .toutiao-yanzhengma:before {
   content: "\e619";
-}
-body {
-  background-color: #f5f7f9;
-}
-.page-nav-bar {
-  background-color: #3296fa;
-}
-.page-nav-bar .van-nav-bar__title {
-  color: #fff;
-}
-.page-nav-bar .van-icon {
-  color: #fff;
 }
